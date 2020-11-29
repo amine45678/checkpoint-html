@@ -1,0 +1,63 @@
+*{
+ margin:0px ;
+}
+
+
+#page{
+    background-color: blueviolet;
+}
+
+
+
+.list
+{
+display:flex;
+justify-content: space-around  ;
+color:white ;
+}
+.moh{
+
+    display:flex;
+    justify-content: space-around;
+    width: 25%;
+    color: black;
+}
+.image
+{
+    
+   
+    display: flex;
+        justify-content: space-evenly;
+    width: 25%;
+
+
+}
+.titer{
+    text-align: center;
+    color: red;
+}
+.pp
+{
+text-align: center;
+}
+h5{
+    text-align: center;
+}
+#page2
+{
+    background-color: blue;
+    
+}
+.titre2{
+    font-size: 25px;
+}
+#page3
+{
+    background-color: greenyellow;
+
+}
+.lo
+{
+display:flex ;
+justify-content: space-around;
+}
